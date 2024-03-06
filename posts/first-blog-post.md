@@ -1,10 +1,11 @@
 ---
-title: This is my first blog post!
+title: hello there, this will be my first blog post! hurray
 published_at: 2022-11-04T15:00:00.000Z
-snippet: This is an excerpt of my first blog post.
+snippet: this is an example of my first blog post woohoo
 ---
 
-Hello, world!
+hi there!!!
+testing testing 123 you get the idea hahaha 🥸🥸🥸
 
 # This is h1
 
