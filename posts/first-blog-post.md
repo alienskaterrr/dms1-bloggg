@@ -18,7 +18,7 @@ homework week one session one attached belowwww! a sweet 30 second clip of my lo
 https://www.youtube.com/watch?v=_OA_MS8JS14
 
 ![slelfie with some people](/ws101/IMG_2876.png)
-
+![also a selfie with some people](/ws101/IMG_2885.png)
 
 And that is the lovely dragged out tale of our scavenger hunt.
 
