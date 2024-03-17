@@ -33,7 +33,7 @@ Moon Knight is fully owned by Disney falling underneath the Marvel franchise/mer
 https://www.youtube.com/watch?v=27y7Dwvhq7g
 
 Storyboard for my self portrait!
-
+The mental/verbal sort of storyboard for my self portrait is that it revolves around nostalgia and sort of missed feelings of childhood etc. it begins just with a quick shot of my yard, some cigarettes and then there is a cutaway shot to some similar weather in which we are now at the beach- my childhood home beach. so essentially a match cut. i had also thought of doing this with a sea shell and will experiment still potentially using this idea- the shell will then appear throughout every scene as i find that every day little things bring me back to past emotions etc
 
 # This is h1
 
