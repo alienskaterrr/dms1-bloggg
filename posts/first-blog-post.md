@@ -67,9 +67,20 @@ Something the audience needs to understand as the relationship between each shot
 
 The rhythm, tempo and pace I want to establish during this moment are what I would say slow paced. I want looking back on these memories to feel meaningful and just a bit slower. Something i look back on lovingly at a calm pace because it is just a mental place I am comfortable sitting in. My editing will be less frequent clip cutting- and if I am going to do a quick cut it will be something a bit softer. In class last week we went over a few clips and noted that in action shots there were frequent clips during a bank robbery as well as an escape scene- multiple camera angles as well. I am looking at something opposite to this, gentle soft and slow camera angles- so it's kind of like you're skimming back through foggy memories and attempting recollection of thoughts. Perhaps I could find a way to create a light sort of blur without editing as the camera spis to turn and then we enter another clip beginning with that same spinning motion to create a match cut. I will experiment with this just making basic clips at home. 
 
-Week 3!
+Week 3 session 1!
 
+A link containing the draft of my storyboard for the self portrait assessment task:
 
+The process of creating this draft included
+
+The written intention of my work has remained in strict likeness to the previous weeks descriptions. The general concept of my storyboard is childhood, and how once we close the door to it growing up, we turn around and realise that it will be locked forever. 
+My intentions are to 
+
+Week 3 session 2!
+
+I have just completed a final grammar check and ensured that each link is accessible from the deployed blog when live, and that everything is included!
+
+Thank you for reading :-D
 
 # This is h1
 
