@@ -159,5 +159,4 @@ its capabilities or base the imagery off of metaphors, however as I went along I
 ideas that were closer in appearance to Instagrams original logo design.
 
 I have attached each of these, the first three have descriptors as aforementioned. I may return to
-this and re-do said first three under a time constraint, however I will consult my assessor first for their
-opinion. 
+this and re-do said first three under a time constraint, however I will consult my assessor first for their opinion. 
