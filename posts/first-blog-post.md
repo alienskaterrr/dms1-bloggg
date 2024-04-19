@@ -31,7 +31,6 @@ https://www.youtube.com/watch?v=_OA_MS8JS14
 ![slelfie with some people](/w1s1/IMG_2876.png)
 ![also a selfie with some people](/w1s1/IMG_2874.png)
 ![imagedesb](/w1s1/IMG_2875.png)
-![imagedescagain](/w1s1/IMG_2876.png)
 ![moreimagedesclol](/w1s1/IMG_2879.png)
 ![desc](/w1s1/IMG_2882.png)
 ![dddddescc](/w1s1/IMG_2884.png)
