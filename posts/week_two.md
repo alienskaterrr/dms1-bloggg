@@ -209,4 +209,4 @@ acceptance
 and feelings of warmth and gratefulness to be somewhere you are still loved and taken care of. A home
 that may take getting used to but is still a home nonetheless.
 
-(/week 2 session 2/IMG_3310.jpeg)
+![lovely image](/w2s1/IMG_3310.jpeg)
