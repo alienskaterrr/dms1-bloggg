@@ -28,14 +28,14 @@ https://www.youtube.com/watch?v=Moi4JxGGYnk
 homework week one session one attached belowwww! a sweet 30 second clip of my lovely second family the agudos; and a hike we often partake in. due to the frequent nature of said hike i have found it quite special and it now holds an important place in my heart despite being quite large for a "space".
 https://www.youtube.com/watch?v=_OA_MS8JS14
 
-![slelfie with some people](/ws101/IMG_2876.png)
-![also a selfie with some people](/ws101/IMG_2874.png)
-(/ws101/IMG_2875.png)
-(/ws101/IMG_2876.png)
-(/ws101/IMG_2879.png)
-(/ws101/IMG_2882.png)
-(/ws101/IMG_2884.png)
-(/ws101?IMG_2885.png)
+![slelfie with some people](/w1s1/IMG_2876.png)
+![also a selfie with some people](/w1s1/IMG_2874.png)
+(/w1s1/IMG_2875.png)
+(/w1s1/IMG_2876.png)
+(/w1s1/IMG_2879.png)
+(/w1s1/IMG_2882.png)
+(/w1s1/IMG_2884.png)
+(/w1s1?IMG_2885.png)
 
 And that is the lovely dragged out tale of our scavenger hunt.
 
