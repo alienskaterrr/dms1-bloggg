@@ -35,6 +35,7 @@ I have decided to begin this storyboard from the time stamp of 19 seconds, when 
 of my Uncle's grave. This scene is crucial as explained in a passage I wrote further down last week. 
 I thought it would be a good place to start seeing as it is the beginning of the story- he is the 
 reason we moved. 
+
 In the storyboard I have described it as a still shot, and extreme close up with very 
 light jostling to sort of emphasise the feeling you get when you're not extremely physically reactive 
 but you are beginning to realise the gravity of what has happened, and so carrying that metaphorical 
@@ -43,6 +44,7 @@ The next shot is of the rose planted into his grave, a single one was in bloom a
 jostling too- I thought this was a nice small parallel in a way, or a shared emotion of sorts between 
 our two planes of existence. A bit stretched but sometimes you believe in a presence like that even if 
 it is just emotional influence causing it. 
+
 I then used another still shot, but instead of an extreme close up I went an extreme wide shot- as my 
 focus is the mountain, staring at me from the distance almost foreboding or telling me what was to 
 come- where I would live. If you find the middle of the frame you will notice the mountain aligns with 
@@ -54,12 +56,14 @@ and so basically nothing in terms of sentimental value. For the choice of audio 
 effects from the Adobe transportation effect pack, the first being a car trunk closing- something we 
 would've heard shortly before leaving our home when it was a home to call ours, and then a car speeding 
 off as we drove away.
+
 This then flows into the next scene of my new backyard, unfortunately I could not find a house with a 
 sold sign in my area as I thought it would've been quite a nice touch. Getting back to the narrative, 
 you can note that I am once more looking out on that same mountain, but from the otherside, it is no 
 longer sunny and replicating my emotions at the time. I couldn't just go back across the mountain, 
 and even if I did it would not longer look the same on the other side. Sort of representing how we 
 feel when looking back on childhood. 
+
 The next scene is not the final for the entire assessment but is the final for this storyboard 
 homework- I try to take a more uplifting point of view here, and show some water. Whilst this is 
 just water from my local lake, it moved in a sort of serene shore like manner and so I selected the 
@@ -75,6 +79,7 @@ experiment still potentially using this idea- the shell will then appear through
 find that every day little things bring me back to past emotions etc because it symbolises me growing 
 up at the beach. obviously this could change as time goes forward but for now that is an idea i keep 
 going back to. 
+
 A little update returning to this days later- I have found my seashell and will refilm about 40 seconds 
 of footage to try to include it as best as I can as a small link between everything as the beach was my 
 home and something we always come back to in a way. i have included a photo of it so that you may look 
@@ -97,6 +102,7 @@ of water near me- a lake, and try to emanate the same feelings from it. This mea
 only have to heavily rely on my writing as a back up but sound effects too; things such as the 
 ambience beach sound effects found in Adobe, as well as my ability to find metaphors in the visuals 
 presenting in front of me. 
+
 I immediately visited said lake and began to film as much footage as possible whilst attempting to 
 keep it unique. I have also sort of tweaked my storyline; it will still be a short story of my move 
 and self potrait of feelings but will grow from a sort of sad piece into one of a happier tone; 
@@ -131,6 +137,7 @@ story begins. I believe I did mention this somewhere but I thought I would clari
 
 Explaining the first effect- I used the sound of rolling waves to sort of show how I see hear and feel 
 my old home in my current home, whenever I see moving water even if in a lake I feel like I am almost at the beach again and just remember that constant sound ticking all throughout my days as well as the smell of the air. This is placed at the time stamp of 42 seconds and goes until 57 seconds. I thought it most fitting here despite the clips of water moving longer as when I am sitting right next to it the proximity sort of amps up the feelings and seeing it clearly is like looking into a mirror of the past in a way.
+
 The next I selected and imported was from the vehicle sound effect pack- it is played at the time stamp
  of 33 seconds and goes until 38 seconds. I wanted to use the sound of the car starting/moving to 
  represent travel and departure. Elaborating; it is because as soon as my Uncle had passed and we 
