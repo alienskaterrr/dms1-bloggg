@@ -31,11 +31,11 @@ https://www.youtube.com/watch?v=_OA_MS8JS14
 ![slelfiewithsomepeople](/w1s1/IMG_2873.jpg)
 ![secondphoto](w1s1/IMG_2874.jpg)
 ![thirdphoto](w1s1/IMG_2875.jpg)
-![fourthphoto](w1s1/IMG_2876.jpg)
+![fourthphoto](w1s1/IMG_2876.png)
 ![fifthphoto](w1s1/IMG_2879.jpg)
 ![sixthphoto](w1s1/IMG_2882.jpg)
 ![seventhphoto](w1s1/IMG_2884.jpg)
-![eightimagegahdayum](w1s1/IMG_2885.jpg)
+![eightimagegahdayum](w1s1/IMG_2885.png)
 
 And that is the lovely dragged out tale of our scavenger hunt.
 
