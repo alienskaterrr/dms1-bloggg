@@ -20,5 +20,7 @@ of fit any picture, they aren't mundane per say but they are definitely malleabl
 
 I have attached two images for this weeks homework task, the first being the uncoloured version of my 10 icons translated digitally, the second being said icons however with their respective hues. 
 
+![description of image](/w5s1/logos.jpg)
+
 Week 5 Session 2!
 
