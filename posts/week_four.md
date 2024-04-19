@@ -106,6 +106,7 @@ There is a certain aesthetic that can only be described as a jagged and hazy pol
 first I couldn't really see the appeal, as I am an xbox person at heart, and the nostalgia just wasn't
 there for me. However I think that sort of blur and those imperfect edges would be perfect for my 
 assessment. 
+
 When  I think of a memory, and what it would look like in a game, I picture cloudy and blurred edges- 
 because it's hard to look back on something perfectly when you have so many things to remember. The 
 brain also struggles to perfectly remember places that you did not spend large amounts of time in, 
@@ -114,6 +115,7 @@ memories and asked if, when they dream, everything is perfectly to scale or if i
 almost- or uncanny rather. They answered that often it is close, but not perfect by any means, and that
 when attempting to recall somewhere far into the past. let's say something exceeding 5 years, they 
 have noticed that upon returning to said place it is a far cry or sort of different to what they had thought.
+
 I'm not dull, obviously places and people change over time, and 5 years is extremely minimal in the
 larger picture, however I am attempting to cling to this overall idea/thought process for my assessment.
 Returning to the subject, I am selecting the PS2.
