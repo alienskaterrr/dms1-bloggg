@@ -1,6 +1,6 @@
 ---
 title: week three
-published_at: 2024-04-19
+published_at: 2024-03-27
 snippet: this is my third week of this class
 disable_html_sanitization: true
 ---
