@@ -1,3 +1,12 @@
+---
+title: week four
+published_at: 2024-04-19
+snippet: this is my fourth week of this class
+disable_html_sanitization: true
+---
+
+Week 4 Session 1
+
 This week we began our second assessment task, creating nine interactive icons underneath a chosen 
 theme. Since we were told
 to get creative with it, I opted for a scenario in which my user is someone in a later life stage, 

@@ -1,6 +1,13 @@
+---
+title: week three
+published_at: 2024-04-19
+snippet: this is my third week of this class
+disable_html_sanitization: true
+---
+
 Week 3 session 1!
 
-A link containing the draft for the self portrait assessment task:
+A link containing the draft for the self portrait assessment task below
 https://www.youtube.com/watch?v=dcFMD4t_P3A
 
 The process of creating this draft included collating my clips- sourced at random as I was in desperate 

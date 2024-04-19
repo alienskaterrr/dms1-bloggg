@@ -1,3 +1,10 @@
+---
+title: week two
+published_at: 2024-04-19 
+snippet: my second week of this class
+disable_html_sanitization: true
+---
+
 Week 2!
 
 Our homework task for week two is to produce a storyboard on Canvas. This can be found linked below but 

@@ -1,3 +1,10 @@
+---
+title: week five
+published_at: 2024-04-19
+snippet: this is my fifth week of this class
+disable_html_sanitization: true
+---
+
 Week 5 Session 1!
 
 This week, we were assigned a homework task which put an emphasis on improving our Adobe Illustrator
