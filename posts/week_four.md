@@ -23,12 +23,16 @@ For our first homework task, we downloaded Adobe Illustrator and used a provided
 squares activity. We were provided themes, thr first being order, the second increase, then bold, 
 congested, tension and playful. We then had to use no more than four black squares to create a visual 
 represenation of what we interpreted each as, for example increase being four squares each getting 
-larger. The videos were a great help as whilst each Adobe interface is similar the features differ- 
+larger. 
+
+![blacksquaresimg](w4s1/blacksquares.jpg)
+
+The videos were a great help as whilst each Adobe interface is similar the features differ- 
 valuable tips included the V shortcut enabling the mini task bar, something introduced in 2024, as 
 well as panels on the right side that are collapsible and expandible. 
 To zoom with ease you can select an icon and press the command key and plus- at least for mac, it 
 differs for windows. It zooms in slowly in increments and if you wish to zoom out command minus will 
-slowyl pull your focus away from it. 
+slowly pull your focus away from it. 
 Command 0 allows perfect focus on the entire document so you can see everything perfectly in frame and 
 with good quality. Command 1 will fit to 100%. 
 Z is the main shortcut for zooming in. If an animated zoom is not your preference, it may be disabled 
