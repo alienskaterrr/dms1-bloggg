@@ -94,6 +94,9 @@ moved on. I opted for flames as the external detail keeping my theme of burning 
 and finished it with some lines swirling out of the sun because I felt it empty. Overall I'm not 
 swooning over this one but it is visually pleasing disregarding little things.
 
+
+
+
 For icon number three:
 This icon is based on a memory of a place/places. I went with green for a sort of earthy colour, as I
 wanted to draw a correlation with the green of countries on the globe. I started off with some small
@@ -111,6 +114,9 @@ connections. So I opted for a map, using the marker icon found on most digital m
 different patches of blue surrounding to represent different seas/oceans etc. Slightly different in
 terms of colour choice to my other icons, but it still does it's job regardless.
 
+
+
+
 For icon number four:
 I came back to emotion for this icon, and whilst I was skeptical having already done two specific 
 emotions, I decided to give it a chance as I didn't want to continue using specific emotions only,
@@ -123,6 +129,9 @@ four sections, as often emotional reactions are met with attention, I drew yello
 and thoughts in the audience. This icon sort of differed to the past three I'd done, and so I again felt
 it sort of visually inadequate, but I also know that it is imporant to have them be different and to 
 really explore every feature of Illustrator available to us.
+
+
+
 
 For icon number five:
 This icon's theme is childhood. I loved my childhood, and my parents often tell me that people look 
@@ -137,6 +146,9 @@ some bright spores. I think it is definitely reaching, and of course I note that
 pleasant childhood. It is also quite hypocritical as earlier I chose to do just a map because everyone
 had been to different places, so I probably should have used a more general symbol of youthful times,
 but I feel strongly for my childhood and found this a nice personal touch and direction to go in.
+
+
+
 
 For icon number six:
 This icon is based on identity. This was actually quite challenging, as when you remember triumphs
@@ -159,12 +171,18 @@ second mirror has more structured lines, each a different colour, representing t
 Sparks and a clock spin between each showing time and how it is a large factor, as a true identity
 doesn't come quickly.
 
+
+
+
 For icon number seven:
 This icon represents relationships. For the design of the USB, I drew two twin flames connecting with
 one another, and then silhouettes within connecting as well. For the secondary icon I did two cords 
 connecting with some more flames moving outwards from them showing flourishment and growth within a
 relationship. I then went with the typical dream border and dots. This design is arguably my most
 thoughtless and whilst not terrible it does stand out a bit against the rest for the wrong reasons.
+
+
+
 
 For icon number eight:
 This icon is for experiences, I drew a ticket on the USB and four symbols of generic, but also random
@@ -175,6 +193,9 @@ one line traversing the entire cricle, on this line different dots are placed fo
 places people will go and things they will do across their life and how it sort of changes their path
 through different imprints. 
 
+
+
+
 For icon number nine:
 My final icon is quite random, I impulsively chose glory, as I thought what if in the society I have
 created for this assignment- each memory is priced, with sadness being the least expensive, as who wants
@@ -184,8 +205,13 @@ So I went completely different with my design thinking for this and took a direc
 looks as though it could be a tacky logo for a product of sorts. I am pleased with it however I do
 worry it isn't as connected to the others as I might like.
 
+
+
+
 ---
 
 For audio, I want something reflective of the Nintendo DSi camera soundtrack, or nature sound effects
 depending on which icon it is, I have not decided yet but plan on skimming the copyright free sound
 effects available to us through canvas. Updating- I have selected some sound effects from Adobe's ambience pack and have now completed my assessment, following the instructions featured in the link from our homework task. 
+
+I have also attached images of all of my icons to pair with their descriptions.
