@@ -76,6 +76,9 @@ created my best depiction of some glass shards about to puncture the heart using
 crack running throughout the background showing the shattering. I finished it with some more of the
 magic sort of cloud haze.
 
+![icon1face1](/w6s1/icon1face1.jpg)
+![icon1face2](/w6s1/icon1face2.jpg)
+
 For icon number two:
 I was sort of following my first design for this second one; the theme being a memory of passion. I 
 decided to follow a sort of metaphorical meaning route by using flames and lightning bolts, representing
