@@ -185,4 +185,4 @@ worry it isn't as connected to the others as I might like.
 
 For audio, I want something reflective of the Nintendo DSi camera soundtrack, or nature sound effects
 depending on which icon it is, I have not decided yet but plan on skimming the copyright free sound
-effects available to us through canvas.
+effects available to us through canvas. Updating- I have selected some sound effects from Adobe's ambience pack and have now completed my assessment, following the instructions featured in the link from our homework task. 
