@@ -1,3 +1,10 @@
+---
+title: week six
+published at: 2024-04-26
+snippet: this is my sixth week in this class
+disable_html_sanitization: true
+---
+
 Week 6 Session 1
 
 I was not in attendance of this session, due to my not ideal distance from campus and transport,

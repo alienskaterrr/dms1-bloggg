@@ -24,4 +24,9 @@ I have attached two images for this weeks homework task, the first being the unc
 
 Week 5 Session 2!
 
+Being completely truthful, I find myself returning to this in Week 7 as I complete some blog maintenance
+as well as begin to write the homework task for today's session. 
 
+Revisiting the context for my assesment's digital world/story
+
+Below are the results of the html files in Visual Studio Code
