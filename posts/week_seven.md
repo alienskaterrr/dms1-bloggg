@@ -8,7 +8,7 @@ disable_html_sanitization: true
 Week seven session one!
 
 Today marks the beginning of our third assessment task- I am quite taken aback by how fast time seems
-to be moving within this course. This task being to create a transformation within unity- or an
+to be moving within this course. The task dictates we are to create a transformation within unity- or an
 environment representing one. We began with a small demonstration on how to create/implement a 3D object
 and further apply a material to it. Of course I had to go with Sonic the Hedgehog, only the finest of
 pngs. I explored with different shapes and quickly realised that horizontal/rectangular shapes work best
@@ -39,3 +39,7 @@ experience we have undergone in our lives. I find this something that is hard to
 because in some ways it was moving here- returning back to the origins behind my first assessment task,
 and in others it was those smaller accumulating things like the people beside me and experiences I have
 undergone both good and bad. 
+
+I have ultimately decided to select moving here; as it completely changed the direction of my life,
+regarding academics, relationships, hobbies, and overall any/all personality shaping events. Whilst I
+did move from one 
