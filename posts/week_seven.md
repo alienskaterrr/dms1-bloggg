@@ -81,6 +81,11 @@ main means of finding it. We knew that we had to cross the road towards the stat
 pass it as well as all of QV's entrances along the way. We then looked out for the sign of the store
 itself finding it sticking out of a little alleyway. 
 
+![restaurantfindingidk](/w7s2/IMG_5369.jpeg)
+![ttttt](/w7s2/IMG_5370.jpeg)
+![bbbbbb](/w7s2/IMG_5371.jpeg)
+![uuuuuuu](/w7s2/IMG_5372.jpeg)
+
 The significance this held in relation to our Unity environment is using certain means to guide a user
 where you want them to go. The presentation we viewed in class included ways to do this, the most
 prominent example being thresholds; often paired with paths, strategically placed alongside them to
