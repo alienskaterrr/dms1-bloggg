@@ -40,11 +40,33 @@ because in some ways it was moving here- returning back to the origins behind my
 and in others it was those smaller accumulating things like the people beside me and experiences I have
 undergone both good and bad. 
 
-I have ultimately decided to select moving here; as it completely changed the direction of my life,
-regarding academics, relationships, hobbies, and overall any/all personality shaping events. I will 
-attempt to convey this through the entryway being on a hill of sand with a door adorned by small shells
-and such, perhaps I will attach an audio asset to this entryway as well in which some beach sound 
-effects play- I will source these from the Adobe Ambience pack. 
+I have ultimately decided to select moving to a rural area from a coastal one as my transformation; as it completely changed the direction of my life, regarding academics, relationships, hobbies, and
+overall any/all personality shaping events. I will  attempt to convey this through the entryway being
+on a hill of sand with a door adorned by small shells and such, perhaps I will attach an audio asset to
+this entryway as well in which some beach sound effects play- I will source these from the Adobe
+Ambience pack. 
+
+Some assets I believe I will need for this project include coastal themed pieces, even something as
+little as some seashells and sea grass, moving into larger things such as hay and farm land. We
+have been made aware of a resource titled sketch fab, and whilst we have yet to fully begin the
+process of sourcing set assets I will continue to keep my eye on it. I have already saved the links
+to some assets I am certain I will be able to use. 
+
+I want to try and capture the silence in some areas to represent the sort of isolation you feel when
+being displaced from your original home to somewhere completely new. I feel that having the beginning
+of my map quite busy in terms of sound and environment could help with this, as creating a unique
+entrance provides an opportunity to curate the moment. This will then eventually fade into country
+terrain, and whilst I will still utilise many assets as well as the terrain feature to create
+something detailed I want the audio to be a bit lesser, with MP4s attached only to certain things and
+little moments where the user takes a wander in an area with some silence interrupted by the occasional
+sound of wind moving through the hills. 
+
+We have been instructed to create either a digital or traditional map of how the user should move 
+through our space and a visual representation of said space, ensuring to include landmarks or
+things that must be seen by the user to help not only guide them but make sense of the overarching
+story/theme present. I have attached this below
+
+
 
 Week Seven Session 2!
 
@@ -75,3 +97,4 @@ play and get louder. I will also have a path of course but if done correctly I b
 help as when you hear something different, something that stands out, often it can be a good audio
 marker hinting to the user where to go. I will workshop this and continue to document changes and new
 ideas. 
+
