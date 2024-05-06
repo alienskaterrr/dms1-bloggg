@@ -7,3 +7,4 @@ disable_html_sanitization: true
 
 Week 8 Session 1!
 
+This week marks my first of my new class. 
