@@ -41,5 +41,37 @@ and in others it was those smaller accumulating things like the people beside me
 undergone both good and bad. 
 
 I have ultimately decided to select moving here; as it completely changed the direction of my life,
-regarding academics, relationships, hobbies, and overall any/all personality shaping events. Whilst I
-did move from one 
+regarding academics, relationships, hobbies, and overall any/all personality shaping events. I will 
+attempt to convey this through the entryway being on a hill of sand with a door adorned by small shells
+and such, perhaps I will attach an audio asset to this entryway as well in which some beach sound 
+effects play- I will source these from the Adobe Ambience pack. 
+
+Week Seven Session 2!
+
+Today we completed a little wayfinding task. Our group was assigned the task of finding Mx Capogreco's 
+favourite spot for some Korean food. This was to teach us about signifiers, and how we orient ourselves
+when searching for something. Of course with correlations to digital environments.
+
+Before departing we had a minute to group together and have a brief scan of google maps just to get an
+idea of where we were heading, as we were not permitted to use our phones during the search outside of
+RMIT itself. The restaurant is called "By Korea", and we used landmarks and prominent signage as our
+main means of finding it. We knew that we had to cross the road towards the state library, and further
+pass it as well as all of QV's entrances along the way. We then looked out for the sign of the store
+itself finding it sticking out of a little alleyway. 
+
+The significance this held in relation to our Unity environment is using certain means to guide a user
+where you want them to go. The presentation we viewed in class included ways to do this, the most
+prominent example being thresholds; often paired with paths, strategically placed alongside them to
+help guide the player to an objective. An example of this that came to mind for me is Dracozu Lake in
+The Legend of Zelda, found in both BOTW and TOTK, two separate games for context. At this destination
+you can find little markers along the water, guiding you into caves to find armour but also your final
+objective. 
+
+We were advised to think of ways we can do this in our assessment, whilst keeping within our overarching
+theme. I believe I am going to start with using some beach assets, as well as beach ambience MP4s
+attached to said assets and surroundings. I will then utilise proximity sound to make it so that they
+get more quiet as the player goes forward along the path, and that some rural ambience sounds being to
+play and get louder. I will also have a path of course but if done correctly I believe this could also
+help as when you hear something different, something that stands out, often it can be a good audio
+marker hinting to the user where to go. I will workshop this and continue to document changes and new
+ideas. 
