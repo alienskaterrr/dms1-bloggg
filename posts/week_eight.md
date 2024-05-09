@@ -27,3 +27,8 @@ create a messy wave of tall mountains or clumps of risen ground in an instant, a
 find myself having to go back and erase, only to notice that there are odd chunks and bumps left from
 the eraser too. I will of course have to workshop this and perhaps watch some videos or practice in a
 separate scene to help develop/refine my skill. 
+
+I have included screenshots of my work so far below. Ignore my hideously unorganised hierarchy. 
+
+
+
