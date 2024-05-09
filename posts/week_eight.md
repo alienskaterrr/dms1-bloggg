@@ -30,5 +30,7 @@ separate scene to help develop/refine my skill.
 
 I have included screenshots of my work so far below. Ignore my hideously unorganised hierarchy. 
 
+Week 8 Session 2!
+
 
 
