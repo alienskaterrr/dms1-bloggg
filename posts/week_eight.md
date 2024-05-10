@@ -40,8 +40,8 @@ I have included screenshots of my work so far below. Ignore my hideously unorgan
 ![willy](/w8s1/1.png)
 ![b1](/w8s1/2.png)
 ![bananasinpyjamasfr](/w8s1/3.png)
-![postmanpat?](w8s1/4.png)
-![moooooo](w8s1/5.png)
+![postmanpat?](/w8s1/4.png)
+![moooooo](/w8s1/5.png)
 
 Week 8 Session 2!
 
