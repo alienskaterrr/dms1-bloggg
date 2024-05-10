@@ -30,13 +30,18 @@ separate scene to help develop/refine my skill.
 
 Below are some asset examples I have either already added/looked into.
 
-
+![assetno11](/w8s1/IMG_4056.PNG)
+![assetno2222](/w8s1/IMG_4057.PNG)
+![assetno333](/w8s1/IMG_4059.PNG)
+![assetno44444](w8s1/IMG_4058.PNG)
 
 I have included screenshots of my work so far below. Ignore my hideously unorganised hierarchy. 
 
-
-
-
+![willy](/w8s1/1.png)
+![b1](/w8s1/2.png)
+![bananasinpyjamasfr](/w8s1/3.png)
+![postmanpat?](w8s1/4.png)
+![moooooo](w8s1/5.png)
 
 Week 8 Session 2!
 
