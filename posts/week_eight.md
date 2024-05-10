@@ -93,3 +93,9 @@ something to follow up on in my process as I feel it will help me get my ideas a
 I am going to test MP4 connections tonight and play around with some audios/ideas. I hope this idea
 proves successful. 
 
+Returning, I have noticed some issues in my blog. I am unsure as to what has happened seeing my code
+has remained untouched despite blog entries. I have reached out in an attempt to fix this seeing as
+it is calculated in our mark. I have also found myself discontent with my Unity skills, as I am 
+feeling as though the mountains are rather unnatural and too symmetrical when compared to one another,
+nature is anything but perfect and so I am hoping I can fix this without wiping assets/making it worse.
+
