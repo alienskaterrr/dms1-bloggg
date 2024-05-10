@@ -28,7 +28,15 @@ find myself having to go back and erase, only to notice that there are odd chunk
 the eraser too. I will of course have to workshop this and perhaps watch some videos or practice in a
 separate scene to help develop/refine my skill. 
 
+Below are some asset examples I have either already added/looked into.
+
+
+
 I have included screenshots of my work so far below. Ignore my hideously unorganised hierarchy. 
+
+
+
+
 
 Week 8 Session 2!
 
