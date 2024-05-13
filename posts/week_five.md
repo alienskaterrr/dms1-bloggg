@@ -27,6 +27,24 @@ Week 5 Session 2!
 Being completely truthful, I find myself returning to this in Week 7 as I complete some blog maintenance
 as well as begin to write the homework task for today's session. 
 
-Revisiting the context for my assesment's digital world/story
+Revisiting the context for my assesment's digital world/story, it is to be set in a world where humans
+have ports on their body, and if they wish to stimulate a certain emotion, experience or memory they
+are able to purchase a USB from retailers to plug into themself in an attempt to feel. The same as in
+our world, people are of different social and financial standings, the less money you have the worse
+the USB you can afford- for example, someone of low class could only purchase sadness or anger, 
+memories involving the death of a loved one or some scarring traumatic experience. However, if you were
+in the upper class of society you purchase a wide array of positive and fun USBs such as glory or a
+relationship, things that make you feel good. Prices of USBs are also reflective of their length; 
+meaning that you may only be able to afford a quick 30 seconds if poor, and on the opposite side of
+wealth you could purchase hours of fulfilling and positive experiences. There are tiers to USBs as well,
+the top USB of the highest tier being glory- a full day of emotion and memories revolving around you,
+being placed in a world where you are the most important person in the world, receiving constant
+praise and being infinitely rich with no problems in sight. This USB is also special in that you
+must prove you are of a salary capable of making such a grand purchase- I have not converted AUD
+to whatever hypothetical currency is used in this world, but imagine the highest price you'd think
+possible for something so small- this shouldn't be too hard considering the economy we live in today,
+but where these people live it is a surprise. People of lower salaries are often accused of criminal
+activity when attempting to purchase USBs such as this one, as they are practically impossible to obtain
+until you have recieved many qualifications. 
 
 Below are the results of the html files in Visual Studio Code
