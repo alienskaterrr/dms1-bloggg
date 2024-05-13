@@ -46,6 +46,9 @@ possible for something so small- this shouldn't be too hard considering the econ
 but where these people live it is a surprise. People of lower salaries are often accused of criminal
 activity when attempting to purchase USBs such as this one, as they are practically impossible to obtain
 until you have recieved many qualifications. 
+Citizens ID cards each state their place of residence, like ours, however each has a different symbol
+reflective of the area's nature, for example, IDs of people living in Frankston would likely be
+adorned by a skull. 
 
 Below are the results of the html files in Visual Studio Code :-D
 
