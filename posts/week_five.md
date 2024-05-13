@@ -47,4 +47,6 @@ but where these people live it is a surprise. People of lower salaries are often
 activity when attempting to purchase USBs such as this one, as they are practically impossible to obtain
 until you have recieved many qualifications. 
 
-Below are the results of the html files in Visual Studio Code
+Below are the results of the html files in Visual Studio Code :-D
+
+
